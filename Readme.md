@@ -1,20 +1,18 @@
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWdvN2x5amRoazQ3NmFhemVmc3BkdXg4ZzE1bGlmM3V3YmFwOGthaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eljCVpMrhepUSgZaVP/giphy-downsized-large.gif">
-<h1 align="center">Hi 👋, I'm Souritra</h1>
-<h3 align="center">Business Analyst Professional & An aspiring Data Scientist from India</h3>
+<img src="https://analyticsindiamag.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif">
+<h1 align="center">Hi 👋, I'm Krishnendu</h1>
+<h3 align="center">Technical Analyst Professional & An aspiring Data Scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souritra01&label=Profile%20views&color=0e75b6&style=flat" alt="souritra01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishnendu&label=Profile%20views&color=0e75b6&style=flat" alt="kishnendu" /> </p>
 
-- 🔭 3+ yr of experience in Data Analytics domain. Currently working as a **Data Analyst** in **Amazon**.
+- 🔭 1.5+ yr of experience in Data Analytics domain. Currently working as a **Data Analyst** in **Amazon**.
 
-- 🌱 Currently learning **Full Stack Data Science & AI** from **IIT Madras**
+- 🌱 Currently learning **Full Stack Data Science & AI** from **MITx**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/SouRitra01?tab=repositories)
-
-- 📝 I often write articles on [@Souritra_speaking](https://medium.com/@Souritra_speaking)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/kishnendu)
 
 - 💬 Ask me about **Data Analytics & Data Science**
 
-- 📫 Reach out me at **banerjee.souritra@gmail.com**
+- 📫 Reach out me at **krishnendumukherjee573@gmail.com**
 
 - ⚡ Fun fact **I think I am funny :)** 
 
