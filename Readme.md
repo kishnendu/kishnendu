@@ -1,4 +1,4 @@
-<img src="https://analyticsindiamag.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWdvN2x5amRoazQ3NmFhemVmc3BkdXg4ZzE1bGlmM3V3YmFwOGthaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eljCVpMrhepUSgZaVP/giphy-downsized-large.gif">
 <h1 align="center">Hi 👋, I'm Souritra</h1>
 <h3 align="center">Business Analyst Professional & An aspiring Data Scientist from India</h3>
 
