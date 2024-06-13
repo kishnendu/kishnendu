@@ -6,7 +6,7 @@
 
 - 🔭 1.5+ yr of experience in Data Analytics domain. Currently working as a **Technical Analyst** in **HCLTech**.
 
-- 🌱 Currently learning **Full Stack Data Science & AI** from **MITx**
+- 🌱 Currently pursuing **PGP in Data Science and Machine Learning** from **Intellipaat integrated with MITx**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/kishnendu)
 
