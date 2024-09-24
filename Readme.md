@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishnendu&label=Profile%20views&color=0e75b6&style=flat" alt="kishnendu" /> </p>
 
-- 🔭 1.5+ yr of experience in Data Analytics domain. Currently working as a **Technical Analyst** in **HCLTech**.
+- 🔭 2+ yr of experience in Data Analytics domain. Currently working as a **Technical Analyst** in **HCLTech**.
 
 - 🌱 Currently pursuing **PGP in Data Science and Machine Learning** from **Intellipaat integrated with MITx**
 
