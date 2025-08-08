@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishnendu&label=Profile%20views&color=0e75b6&style=flat" alt="kishnendu" /> </p>
 
-- 🔭 2+ yr of experience in Data Analytics domain. Currently working as a **Technical Analyst** in **HCLTech**.
+- 🔭 3+ years of experience in the **Data Analytics , Machine Learning & AI** domain, currently working as an **AI/ML Engineer** at **Cyncly**.
 
-- 🌱 Currently pursuing **PGP in Data Science and Machine Learning** from **Intellipaat integrated with MITx**
+- 🎓 Completed **PGP in Data Science & Machine Learning from MITx.**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/kishnendu)
 
